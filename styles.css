@@ -1,0 +1,30 @@
+* {
+    font-family:'Lexend Deca';
+    margin:0;
+    padding:0;
+    border:0;
+  background-color:#2D3C76;
+}
+
+header {
+    background-color:#2D3C76;
+    padding:5px;
+     
+}
+.title{
+    font-size:5rem;
+    font-family:'Sour Gummy';
+    text-shadow: 5px 5px 5px #A167A5; 
+    color:#271939;
+}
+a {
+    text-decoration:none;
+    color:#181F3A;
+    text-shadow: 5px 5px 5px #A167A5; 
+    font-sixe:;
+}
+
+hr {
+  border: 2px solid #000000;
+  margin: 10px;
+}
