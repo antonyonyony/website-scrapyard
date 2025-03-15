@@ -1,30 +1,73 @@
+
+
 * {
-    font-family:'Lexend Deca';
-    margin:0;
-    padding:0;
-    border:0;
-  background-color:#2D3C76;
+  font-family:'Lexend Deca';
+  margin:15;
+  padding:15;
+  border:0;
 }
 
 header {
-    background-color:#2D3C76;
-    padding:5px;
-     
+  background-color:#2D3C76;
+  padding:8px;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  height:75px;
+  border-radius:10px;
+  background:linear-gradient()
 }
 .title{
-    font-size:5rem;
-    font-family:'Sour Gummy';
-    text-shadow: 5px 5px 5px #A167A5; 
-    color:#271939;
+  font-size:5rem;
+  font-family:'Sour Gummy';
+  text-shadow: 4px 4px 4px #A167A5; 
+  color:#A167A5;
 }
 a {
-    text-decoration:none;
-    color:#181F3A;
-    text-shadow: 5px 5px 5px #A167A5; 
-    font-sixe:;
+  text-decoration:none;
+  color:#A065A4;
+  text-shadow: 3px 3px 3px #A167A5; 
+  font-size:;
 }
 
 hr {
-  border: 2px solid #000000;
-  margin: 10px;
+border: 2px solid #000000;
+margin: 10px;
+}
+nav {
+
+}
+
+main{
+height:500px;
+background-color:#2D3C76;
+border-radius:10px;
+}
+
+.menu {
+background-color:;
+margin:15px;
+}
+
+body {
+  background-color:#181F3A;
+}
+
+.drinks {
+font-size:3rem;
+font-family:'Sour Gummy';
+}
+
+.text-container {
+margin:15px;
+}
+
+footer {
+background-color:#2D3C76;
+border-radius:10px;
+width:100%;
+}
+
+.credits {
+margin:5px;
 }
